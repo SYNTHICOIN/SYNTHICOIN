@@ -20,7 +20,7 @@
   * **Community Allocation**: 5%  
   * **Liquidity and Exchanges**: 85%  
   * **Development and Marketing**: 5%  
-  * **Team Reserve**: 5% - BURNED 
+  * **Team Reserve**: 5% - BURNED 1.1. 2025
 * **Utility of SYNTHI**  
   SYNTHI tokens enable holders to be part of a community centered around sound and graphics. Future features may include exclusive access to artist collaborations, visual and audio NFTs, and community voting on project developments.
 
